@@ -1,0 +1,5 @@
+Statistics-Central Limit Theorum-Intro to Python
+Machine Learning-Neural Networks-Back Propogation
+Databases-Database Revolutions-Data Warehousing Schemes-In Memory Databases-MongoDB-SQL
+Cyber Security-Security Standards
+Customer Relationship Management-CRM Strategy

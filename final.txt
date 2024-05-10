@@ -1,0 +1,2 @@
+For detailed information, see the documentation of the asynchronous version of this API: fs.readFile().
+The optional options argument can be a string specifying an encoding, or an object with an encoding property specifying the character encoding to use for the link path returned. If the encoding is set to 'buffer', the link path returned will be passed as a <Buffer> object.

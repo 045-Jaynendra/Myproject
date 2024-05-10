@@ -1,0 +1,135 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+header {
+  background: url(/HTML-CSS/Portfolio/Image/new-common-treatments-for-ptsd-nightmares-4.jpg);
+  background-size: 80% 100%;
+  background-position: 99%;
+  display: flex;
+  flex-direction: column;
+}
+
+#home {
+  margin: 0px 7%;
+  height: 750px;
+  /* background-color: rgb(65, 65, 129); */
+}
+
+#head {
+  display: flex;
+}
+
+#head-left {
+  width: 50%;
+  height: 80px;
+  color: white;
+  /* background-color: rgb(86, 190, 83); */
+  font-size: 40px;
+  padding-top: 2%;
+  margin-left: 6.5%;
+  /* text-align: center; */
+}
+
+#head-left span {
+  color: rgb(207, 40, 40);
+}
+
+#head-right {
+  width: 50%;
+  height: 80px;
+  /* background-color: rgb(33, 138, 75); */
+}
+
+#head-right ul {
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#head-right ul li {
+  list-style: none;
+}
+
+#head-right ul a {
+  margin: 15px;
+  color: white;
+  text-decoration: none;
+}
+
+#head-right ul a:hover {
+    color: rgb(207, 40, 40);
+}
+
+#dis {
+  color: white;
+  margin-left: 6.6%;
+  margin-top: 12%;
+}
+
+#dis #div-1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
+
+#dis #div-2 {
+    font-family: 'Inter', sans-serif;
+    font-size: 75px;
+}
+
+#dis #div-3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+}
+
+#dis #div-3 span {
+    color: rgb(207, 40, 40);
+}
+
+#dis #sbmt {
+    display: inline-block;
+    background: rgb(207, 40, 40);
+    color: white;
+    font-size: 25px;
+    padding: 12px 45px;
+    margin-top: 20px;
+    font-weight: 400;
+    border-radius: 6px;
+    border: 2px solid crimson;
+    text-decoration: none;
+}
+
+#dis #sbmt:hover {
+    color: rgb(207, 40, 40);
+    background-color: black;
+    border: 1px solid rgb(207, 40, 40);
+}
+
+#About {
+    margin: 0px 7%;
+    background-color: rgb(245, 174, 174);
+    height: 600px;
+}
+
+#pic img {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+#des {
+    display: flex;
+}
+
+#det {
+    width: 30%;
+    height: 80%;
+    background-color: rgb(66, 87, 176);
+    box-sizing: border-box;
+}
+

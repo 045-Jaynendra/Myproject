@@ -1,0 +1,24 @@
+form {
+    background-color: blue;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+.a {
+    float: left;
+    justify-self: auto;
+    font-family:monospace;
+    font-size: 60px;
+}
+.b {
+    width: 50%;
+}
+.tb {
+    padding: 10px;
+    margin: 5px;
+    background-color: cadetblue;
+}
+.top {
+    padding: 8%;
+}

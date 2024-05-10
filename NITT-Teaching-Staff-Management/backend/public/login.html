@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="login.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>NIT Trichy - Employee Details</title>
+    <script type="module">
+        import { handleLogin} from "/script.js";
+    </script>
+</head>
+<body>
+    <div id="toplinkbar">		
+        <div class="left" style="margin-left:1%">		
+          <a href="https://www.nitt.edu/home/students/facilitiesnservices/tp/">Placements</a>&nbsp;|
+          <a href="https://www.nitt.edu/home/students/facilitiesnservices/library/">Library</a>&nbsp;|
+          <a href="https://www.nitt.edu/home/academics/departments/">Departments</a>&nbsp;|
+          <a href="https://www.nitt.edu/home/students/events/">Events</a>&nbsp;|
+          <a href="https://www.nitt.edu/home/students/facilitiesnservices/ComputerSupportGroup/">CC</a>&nbsp;
+        </div>   
+        <div class="right" style="margin-right:1%">
+          <a href="https://www.nitt.edu/home/search/">Search</a>&nbsp;|
+          <a target="_blank" href="https://webmail.nitt.edu/">Webmail</a>&nbsp;|
+          <a href="https://www.nitt.edu/home/sitemap/">Sitemap</a>
+        </div>
+    </div>
+
+    <div id="header">
+        <a href="/"><img src="https://www.nitt.edu/cms/templates/nitt_13inner/images/nitt.png" style="position: relative;bottom: 13%;position: relative;bottom:13%;width:100%;overflow:hidden;"></a>
+    </div>
+    <div class="cbp-af-header">
+        <div class="cbp-af-inner">
+            <div id="main-nav">
+                <ul class="menu">
+                    <li class="navigate" data-href="home"><a href="https://www.nitt.edu/">Home</a></li>
+                    <li class="navigate" data-href="login"><a href="./login.html">Login / Register</a></li>
+                    <li class="navigate" data-href="empDetails"><a href="./empDetails.html">Employee Details</a></li>
+                    <li class="navigate" data-href="familyDetails"><a href="./familyDetails.html">Family Details</a></li>
+                    <li class="navigate" data-href="salary"><a href="./salary.html">Salary</a></li>
+                    <li class="navigate" data-href="gps"><a href="./gps.html">GPS/NPS of Family Members</a></li>
+                    <li class="navigate" data-href="contact"><a href="https://www.nitt.edu/home/contact/">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <div class="signup-form">
+                    <!-- action="/api/staff/login" -->
+                    <form class="mt-5 border p-4 bg-light shadow" action="#" id="loginForm">
+                        <h4 class="mb-5">Login</h4>
+                        <div class="row">
+                            <div class="mb-3 col-md-12">
+                                <label>Webmail id<span class="text-danger">*</span></label>
+                                <input type="email" name="webmail" class="form-control">
+                            </div>
+                            <div class="mb-3 col-md-12">
+                                <label>Password<span class="text-danger">*</span></label>
+                                <input type="password" name="password" class="form-control">
+                            </div>
+                        </form>
+
+                            <div class="col-md-12">
+                                <button class="btn btn-primary float-end" type="submit" id="loginButton">Login</button>
+                            </div>
+                        </div>
+                </div>
+                <p>Not registered yet <a href="./register.html">Click Here</a></p>
+            </div>
+        </div>
+    </div>
+
+    <div id="footer">
+        <div id="footer-content">
+            <div id="footerRowOne">
+                <div class="footerCol noBorder">
+                    <h2><a href="/academics/">Academics</a></h2><br>
+                    <ul>
+                    <li><a href="/academics/programmes">Academic Programmes</a></li>
+                    <li><a href="/academics/departments">Departments</a></li>
+                    <li><a href="/academics/faculty">Faculty</a></li>
+                    <li><a href="/academics/rules">Rules and Regulations</a></li>
+                    <li class="noBorder"><a href="/academics/scholarships">Scholarships</a></li>
+                    </ul>
+                </div>
+                <div class="footerCol">
+                    <h2><a href="/admissions/">Admissions</a></h2><br>
+                    <ul>
+                    <li><a href="/admissions/btech">B.Tech</a>. / <a href="/admissions/barch">B.Arch.</a></li>
+                    <li><a href="/admissions/mtech">M.Tech</a>. / <a href="/admissions/mtech">M.Arch.</a> </li>
+                    <li><a href="/admissions/msc">M.Sc</a>. / <a href="/admissions/ma">MA</a> </li>
+                    <li><a href="/admissions/mca">MCA</a> / <a href="/admissions/mba">MBA</a></li>
+                    <li><a href="/admissions/ms">MS (By Research)</a></li>
+                    <li class="noBorder"><a href="/admissions/phd">Ph.D.</a></li>
+                    </ul>
+                </div>
+                <div class="footerCol">
+                    <h2><a href="/students/">Student Life</a></h2><br>
+                    <ul>
+                    <li><a href="/students/events">Events</a></li>
+                    <li><a href="/students/clubsnassocs">Clubs &amp; Associations</a></li>
+                    <li><a href="/students/facilitiesnservices">Facilities &amp; Services</a></li>
+                    <li><a href="/students/facilitiesnservices/hostelsnmess/">Hostel &amp; Messes</a></li>
+                    <li class="noBorder"><a href="/students/office">Office of the Dean (Students)</a></li>
+                    </ul>
+                </div>
+                <div class="footerCol">
+                    <h2><a href="/other/">Other Links</a></h2><br>
+                    <ul>
+                    <li><a href="/other/tenders">Tenders and Notices</a></li>
+                    <li><a href="/other/jobs">Job Opportunities</a></li>
+                    <li><a href="/righttoinfoact">RTI</a></li>
+                    <li><a href="http://alumni.nitt.edu" target="_blank">Alumni</a></li>
+                    <li><a href="/sitemap">Sitemap</a></li>
+                    </ul>
+                </div>
+                <div class="footerCol">
+                    <h2><a href="/contact/">Contact Us</a></h2><br>
+                    <ul style="padding-bottom:10px;">
+                    <li>National Institute of Technology<br>Tiruchirappalli - 620015<br>Tamil Nadu, INDIA <br>Fax: +91-431-2500133<br></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="copyright">
+            <div id="copyrightContent">
+            <p>© <a href="https://www.nitt.edu/home/webteam/">WebTeam NIT Trichy</a>,<br> 
+                <span class="break">National Institute of Technology, Tiruchirappalli</span></p>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

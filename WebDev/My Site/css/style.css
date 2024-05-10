@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    margin: auto;
+}
+.fro {
+    background-color: rgb(213, 236, 238);
+    text-align: center;
+}
+.clo1 {
+    height: 100px;
+    /* display: block; */
+    position: relative;
+    left: 20%;
+}
+.clo2 {
+    height: 100px;
+    position: absolute;
+}
+.mou {
+    height: 350px;
+    margin-top: 9%;
+}
+.hn{
+    font-family: 'Passions Conflict', cursive;
+    margin: 0;
+    color: rgb(89, 213, 220);
+    font-size: 150px;
+}
+.hw {
+    color: rgb(89, 213, 220);
+    font-size: 50px;
+    margin: 5 auto;
+}
+.cont {
+    margin: 60px auto;
+    text-align: center;
+    width: 45%;
+}
+#ms {
+    color: rgb(89, 213, 220);
+    margin-bottom: 60px;
+}
+.idd {
+    width: 20%;
+    margin-right: 15px;
+    float: left;
+}
+.idd2 {
+    width: 20%;
+    margin-right: 15px;
+    position: relative;
+    float: right;
+}
+h2 {
+    color: rgb(89, 213, 220);
+}
+p {
+    line-height: 2;
+    word-spacing: 1px;
+}
+.con {
+    text-align: left;
+    margin: 70px auto;
+}
+.prof {
+    text-align: center;
+    margin: 60px auto;
+}
+.pp {
+    width: 15%;
+}
+.par {
+    margin: auto;
+    width: 30%;
+}
+.lst {
+    text-align: center;
+    margin: 60px auto;
+    width: 40%;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 38px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #3cdcfc;
+    background-image: -webkit-linear-gradient(top, #3cdcfc, #3498db);
+    background-image: -moz-linear-gradient(top, #3cdcfc, #3498db);
+    background-image: -ms-linear-gradient(top, #3cdcfc, #3498db);
+    background-image: -o-linear-gradient(top, #3cdcfc, #3498db);
+    background-image: linear-gradient(to bottom, #3cdcfc, #3498db);
+    text-decoration: none;
+  }
+.foot {
+    background: #3498db;
+    line-height: 5;
+    height: 150px;
+    margin: 50px auto 0px;
+    text-align: center;
+}
+a {
+    color: rgb(10, 69, 71);
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ft {
+    color: white;
+}
+hr {
+    border-style: dotted;
+    border-width: 0px;
+    border-top-width: 15px;
+    border-color: cadetblue;
+    width: 10%;
+    /* size: 20px; */
+}

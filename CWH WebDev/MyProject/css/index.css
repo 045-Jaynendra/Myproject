@@ -1,0 +1,45 @@
+body {
+    background-color: beige;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo img {
+    height: 150px;
+    width: 150px;
+    margin-left: 50px;
+}
+
+#navbar {
+    display: flex;
+}
+
+#navbar ul {
+    margin-left: 50px;
+    display: flex;
+}
+
+#navbar ul a {
+    margin: 30px;
+    margin-top: 70px;
+    text-decoration: none;
+}
+
+#navbar ul a li {
+    font-weight: bold;
+    color: rgb(21, 31, 16);
+    list-style: none;
+    font-size: 28px;
+}
+
+#navbar ul a:hover {
+    text-decoration: none;
+    font-size: 35px;
+}
+
+

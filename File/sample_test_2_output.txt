@@ -1,0 +1,40 @@
+00027-Statistics-Central Limit Theorum-01:42-www.xyz.com/Xq7Uj1XKI9
+00028-Statistics-Central Limit Theorum-02:59-www.xyz.com/XN0ZEPHmpW
+00076-Statistics-Central Limit Theorum-02:29-www.xyz.com/DAYzj0fJSK
+00096-Statistics-Central Limit Theorum-01:16-www.xyz.com/auqksrsOBu
+00123-Statistics-Central Limit Theorum-01:25-www.xyz.com/UxS0dvTHPy
+00143-Statistics-Central Limit Theorum-01:08-www.xyz.com/9IOrLCxSPN
+00057-Statistics-Intro to Python-00:33-www.xyz.com/JSyculIDaq
+00082-Statistics-Intro to Python-02:21-www.xyz.com/NlSTxU9iXZ
+00140-Statistics-Intro to Python-02:25-www.xyz.com/Hrl36z0WQ9
+00147-Statistics-Intro to Python-02:59-www.xyz.com/qa7T5rCswl
+00052-Machine Learning-Neural Networks-00:55-www.xyz.com/3std1Zmjvs
+00069-Machine Learning-Neural Networks-02:25-www.xyz.com/lek8IxRYWJ
+00112-Machine Learning-Neural Networks-01:56-www.xyz.com/sHfZZ2jdUj
+00160-Machine Learning-Neural Networks-02:33-www.xyz.com/lkvFUTTPzV
+00077-Machine Learning-Back Propogation-01:04-www.xyz.com/e86m05o7yK
+00080-Machine Learning-Back Propogation-02:49-www.xyz.com/8D1fl3QUc9
+00167-Machine Learning-Back Propogation-02:44-www.xyz.com/2t4wg8ecFE
+00185-Machine Learning-Back Propogation-01:08-www.xyz.com/cCGOklBue8
+00197-Machine Learning-Back Propogation-01:01-www.xyz.com/snVnW282TO
+00034-Databases-Database Revolutions-00:34-www.xyz.com/9I3Z0NOAjD
+00051-Databases-Database Revolutions-02:22-www.xyz.com/ZM9ekP4HGv
+00121-Databases-Database Revolutions-02:01-www.xyz.com/WiVVgVUluU
+00138-Databases-Database Revolutions-02:26-www.xyz.com/oEEwST9xjy
+00098-Databases-Data Warehousing Schemes-00:33-www.xyz.com/6fPgZFRP5J
+00021-Databases-In Memory Databases-00:08-www.xyz.com/S5SvgBi7wW
+00045-Databases-In Memory Databases-02:58-www.xyz.com/63dSUKgwNQ
+00115-Databases-In Memory Databases-00:49-www.xyz.com/yDS98PM4Jq
+00128-Databases-In Memory Databases-02:00-www.xyz.com/RQqEnFRCte
+00137-Databases-In Memory Databases-00:07-www.xyz.com/wmk4vDzKoc
+00008-Databases-MongoDB-00:19-www.xyz.com/o4ltAHO0iG
+00030-Databases-MongoDB-02:17-www.xyz.com/SR2zo0Y1Pp
+00032-Databases-MongoDB-01:39-www.xyz.com/QkMq9MpwMM
+00050-Databases-MongoDB-00:28-www.xyz.com/aBhBjM5hrC
+00023-Databases-SQL-02:45-www.xyz.com/8kPZpsSV1A
+00067-Cyber Security-Security Standards-01:03-www.xyz.com/PdDIGYs4ia
+00101-Cyber Security-Security Standards-00:57-www.xyz.com/0RDsyAm7zm
+00186-Cyber Security-Security Standards-02:15-www.xyz.com/2Z7PUFJ1NF
+00046-Customer Relationship Management-CRM Strategy-02:18-www.xyz.com/MRrBmHYABt
+00072-Customer Relationship Management-CRM Strategy-01:27-www.xyz.com/w401D8sz6j
+00139-Customer Relationship Management-CRM Strategy-01:12-www.xyz.com/P5PLp9NlKN

@@ -1,0 +1,38 @@
+00073-Machine Learning-Gaussian Parameter Estimation-00:23-www.xyz.com/rFwXsVu9nQ
+00117-Machine Learning-Gaussian Parameter Estimation-00:55-www.xyz.com/2AQ0Lq7SGS
+00187-Machine Learning-Gaussian Parameter Estimation-02:42-www.xyz.com/YVt8h9VPse
+00059-Machine Learning-Bayesian Networks-00:56-www.xyz.com/T8flabNSMe
+00106-Machine Learning-Bayesian Networks-01:15-www.xyz.com/Ty4WXP1PTp
+00170-Machine Learning-Bayesian Networks-01:39-www.xyz.com/RSp9NrHByM
+00013-Machine Learning-Density based Clustering-00:37-www.xyz.com/84HhnhqeDh
+00038-Machine Learning-Density based Clustering-02:07-www.xyz.com/RgUhGd76o4
+00064-Machine Learning-Density based Clustering-01:49-www.xyz.com/xK0aRnf08K
+00194-Machine Learning-Density based Clustering-00:33-www.xyz.com/Lycoxkg8K5
+00003-Databases-CAP Theorum-01:08-www.xyz.com/5ldGsuWLtI
+00049-Databases-CAP Theorum-02:07-www.xyz.com/7QGSWtse8j
+00093-Databases-CAP Theorum-01:45-www.xyz.com/lUHMv9LFEr
+00103-Databases-CAP Theorum-01:41-www.xyz.com/fzofQ1VNBG
+00126-Databases-CAP Theorum-00:12-www.xyz.com/pOPDPeFVFv
+00179-Databases-CAP Theorum-01:44-www.xyz.com/AMqJY3BFoE
+00098-Databases-Data Warehousing Schemes-00:33-www.xyz.com/6fPgZFRP5J
+00008-Databases-MongoDB-00:19-www.xyz.com/o4ltAHO0iG
+00030-Databases-MongoDB-02:17-www.xyz.com/SR2zo0Y1Pp
+00032-Databases-MongoDB-01:39-www.xyz.com/QkMq9MpwMM
+00050-Databases-MongoDB-00:28-www.xyz.com/aBhBjM5hrC
+00074-Databases-HBase-02:33-www.xyz.com/lYSicShpYX
+00105-Databases-HBase-02:12-www.xyz.com/xSPdRBGpDk
+00134-Databases-HBase-01:11-www.xyz.com/4I2ebbBG07
+00163-Databases-HBase-01:07-www.xyz.com/q94urRg0QA
+00018-Cyber Security-SDLC-00:24-www.xyz.com/SSWK8BgWpa
+00180-Cyber Security-SDLC-02:03-www.xyz.com/UPW6qMCMGd
+00188-Cyber Security-SDLC-00:53-www.xyz.com/BF0Eo5dGLw
+00067-Cyber Security-Security Standards-01:03-www.xyz.com/PdDIGYs4ia
+00101-Cyber Security-Security Standards-00:57-www.xyz.com/0RDsyAm7zm
+00186-Cyber Security-Security Standards-02:15-www.xyz.com/2Z7PUFJ1NF
+00035-Cyber Security-Business risk Analysis-01:05-www.xyz.com/nhfjAvidIM
+00104-Cyber Security-Business risk Analysis-00:03-www.xyz.com/4aNXu3oLoy
+00110-Cyber Security-Business risk Analysis-02:18-www.xyz.com/jIPA3S2laQ
+00155-Cyber Security-Business risk Analysis-01:09-www.xyz.com/7ABKLlU9Aj
+00005-Customer Relationship Management-Components of CRM-01:48-www.xyz.com/MLMP6zfxs9
+00084-Customer Relationship Management-Components of CRM-01:14-www.xyz.com/TiwqROIOqR
+00169-Customer Relationship Management-Components of CRM-02:30-www.xyz.com/CBIC2L6iTi

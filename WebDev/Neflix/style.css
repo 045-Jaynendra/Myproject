@@ -1,0 +1,133 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+.headr {
+    height: 730px;
+    width: auto;
+    /* background-color: rgb(180, 240, 15); */
+    color: #ffffff;
+    /* background-color: rgb(181, 60, 60); */
+    background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5) ), url('https://assets.nflxext.com/ffe/siteui/vlv3/862cc171-8df5-418c-886f-2aaf767ae159/2e1414e3-cdae-473f-af07-31f9b74741f6/IN-en-20230130-popsignuptwoweeks-perspective_alpha_website_large.jpg');
+    /* background-size: cover; */
+}
+hr {
+    width: 100%;
+    height: 15px;
+    background-color: #312e2e;
+    color: cadetblue;
+}
+.head-in {
+    width: 96%;
+    height: 5rem;
+    margin: 2rem;
+    display: inline-block;
+    position: relative;
+}
+.hr-s {
+    display: inline-block;
+    float: right;
+}
+.head-in h2 {
+    display: inline;
+    font-size: 3rem;
+    color: red;
+}
+.head-in select {
+    display: inline;
+    height: 2rem;
+    width: 7rem;
+    border-radius: 5px;
+}
+.head-in button {
+    height: 2.5rem;
+    width: 7rem;
+    border-radius: 5px;
+    background-color: red;
+    color: #ffffff;
+}
+.bod {
+    margin:  0px 20%;
+    text-align: center;
+}
+.bod h1 {
+    font-size: 5rem;
+}
+.bod p {
+    font-size: 1.5rem;
+}
+.detl {
+    position: relative;
+    width: 90%;
+}
+.bod input {
+    float: left;
+    height: 4rem;
+    width: 35rem;
+}
+.btnl {
+    float: right;
+    display: inline-block;
+    height: 4.3rem;
+    width: 15.8rem;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: auto 0px;
+    text-decoration: none;
+    /* font-weight: bolder; */
+    background-color: red;
+    color: #ffff;
+}
+.cnt1 {
+    height: 500px;
+    margin: auto 15%;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+}
+.cnt1 .d1 {
+    float: left;
+    width: 50%;
+    margin-top: 100px;
+}
+.cnt1 .d1 h1 {
+    font-size: 4rem;
+}
+.cnt1 .d1 p {
+    font-size: 1.5rem;
+}
+.cnt1 .d2 img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.cnt1 .d2 {
+    float: right;
+    width: 50%;
+}
+.cnt2 {
+    height: 500px;
+    margin: auto 10%;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+}
+.cnt2 .d1 {
+    float: right;
+    width: 50%;
+    margin-top: 100px;
+    /* margin: 40px; */
+}
+.cnt2 .d1 h1 {
+    font-size: 4rem;
+}
+.cnt2 .d1 p {
+    font-size: 1.5rem;
+}
+.cnt2 .d2 {
+    float: left;
+    width: 50%;
+}
+.cnt2 .d2 img {
+    max-width: 100%;
+    max-height: 100%;
+}

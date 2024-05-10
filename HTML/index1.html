@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        /* text-align: center; */
+        background-image: url(wp3191616.jpg);
+        padding: 0px;
+        margin: 0px;
+    }
+
+    #form {
+        background-color: #fff;
+        padding: 10px;
+        margin: 10px auto;
+        width: 80%;
+        border: 3px solid silver;
+    }
+
+    input {
+        margin: 10px;
+    }
+
+    legend {
+        font-weight: bolder;
+    }
+
+    button {
+        margin: 20px;
+        height: 40px;
+        width: 150px;
+    }
+</style>
+
+<body>
+    <div id="form">
+        <center>
+            <h1>E-PIZZERIA</h1>
+        </center>
+        <center>
+            <p>Authentic Pizza: Easy, fast and 100% Real.</p>
+        </center>
+        <hr>
+        <h2>Design Your Pizza</h2>
+        <fieldset id="co">
+            <legend>Crust Option</legend>
+            <input type="radio" name="crust" id="" value="10">
+            <label for="">Wheat Flour</label>
+            <input type="radio" name="crust" id="" value="20">
+            <label for="">White Flour</label>
+            <input type="radio" name="crust" id="" value="30">
+            <label for="">Gluten-Free flour</label>
+        </fieldset>
+        <fieldset id="su">
+            <legend>Sause</legend>
+            <input type="radio" name="sause" id="" value="10">
+            <label for="">BBQ</label>
+            <input type="radio" name="sause" id="" value="20">
+            <label for="">Hummus</label>
+            <input type="radio" name="sause" id="" value="30">
+            <label for="">Pesto</label>
+            <input type="radio" name="sause" id="" value="40">
+            <label for="">Tomato</label>
+            <input type="radio" name="sause" id="" value="50">
+            <label for="">White</label>
+            <input type="radio" name="sause" id="" value="60">
+            <label for="">None</label>
+        </fieldset>
+        <fieldset id="cm">
+            <legend>Cheese MAx 2</legend>
+            <input type="checkbox" name="cheese" id="" value="10" onclick="myfun()">
+            <label for="">Cheddar</label>
+            <input type="checkbox" name="cheese" id="" value="20" onclick="myfun()">
+            <label for="">Low-Fat Mozzarella</label>
+            <input type="checkbox" name="cheese" id="" value="30" onclick="myfun()">
+            <label for="">Mozzarella</label>
+            <input type="checkbox" name="cheese" id="" value="40" onclick="myfun()">
+            <label for="">Ricotta</label>
+            <input type="checkbox" name="cheese" id="" value="50" onclick="myfun()">
+            <label for="">Soy Cheese(Dairy Free)</label>
+        </fieldset>
+        <fieldset id="tp">
+            <legend>Toppings</legend>
+            <input type="checkbox" name="toppings" id="" value="5" onclick="myfun2()">
+            <label for="">Anchovies</label>
+            <input type="checkbox" name="toppings" id="" value="10" onclick="myfun2()">
+            <label for="">Artichokes</label>
+            <input type="checkbox" name="toppings" id="" value="15" onclick="myfun2()">
+            <label for="">Basil</label>
+            <input type="checkbox" name="toppings" id="" value="20" onclick="myfun2()">
+            <label for="">Bellpeppers</label>
+            <input type="checkbox" name="toppings" id="" value="25" onclick="myfun2()">
+            <label for="">Celery</label>
+            <input type="checkbox" name="toppings" id="" value="30" onclick="myfun2()">
+            <label for="">Eggplant</label>
+            <input type="checkbox" name="toppings" id="" value="35" onclick="myfun2()">
+            <label for="">Habenero</label>
+            <input type="checkbox" name="toppings" id="" value="40" onclick="myfun2()">
+            <label for="">Peppers</label>
+            <input type="checkbox" name="toppings" id="" value="45" onclick="myfun2()">
+            <label for="">Mushrooms</label>
+            <input type="checkbox" name="toppings" id="" value="50" onclick="myfun2()">
+            <label for="">Olives</label>
+            <input type="checkbox" name="toppings" id="" value="55" onclick="myfun2()">
+            <label for="">Onions</label>
+            <input type="checkbox" name="toppings" id="" value="60" onclick="myfun2()">
+            <label for="">Pepperoni</label>
+            <input type="checkbox" name="toppings" id="" value="65" onclick="myfun2()">
+            <label for="">Pineapple</label>
+            <input type="checkbox" name="toppings" id="" value="70" onclick="myfun2()">
+            <label for="">Spinach</label>
+            <input type="checkbox" name="toppings" id="" value="75" onclick="myfun2()">
+            <label for="">Tofu</label>
+            <input type="checkbox" name="toppings" id="" value="80" onclick="myfun2()">
+            <label for="">Tomatoes</label>
+            <input type="checkbox" name="toppings" id="" value="85" onclick="myfun2()">
+            <label for="">Zucchini</label>
+        </fieldset>
+        <fieldset id="sz">
+            <legend>Size</legend>
+            <select name="" id="sze">
+                <option name="siz" value="5">S-small</option>
+                <option name="siz" value="7">Nano</option>
+                <option name="siz" value="10">Small</option>
+                <option name="siz" value="12">Medium Large</option>
+                <option name="siz" value="16">X-Large</option>
+            </select>
+        </fieldset>
+        <fieldset id="pm">
+            <legend>Payment</legend>
+            <label for="">Your total (before Tips and Tax) is : </label>
+            <span id="btt"></span>
+            <br>
+            <label for="">Tips</label>
+            <input type="text" name="" id="tip" required><br>
+            <label for="">Street Address</label>
+            <input type="text" name="" id="add" required><span id="erradd"></span><br>
+
+            <label for="">City</label>
+            <input type="text" name="" id="" required><br>
+
+            <label for="">State</label>
+            <input id="stat" type="text" required>
+            <br><br>
+            <b><label for="">Final Total: <span id="total">0.00</span></label></b>
+        </fieldset>
+        <center><button type="submit" onclick="validation()">Submit</button></center>
+    </div>
+    <script src="ind.js"></script>
+</body>
+
+</html>

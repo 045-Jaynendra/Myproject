@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Bar</title>
+    <style>
+        body {
+            background-image: url("1DProject/img/bckimg.jpg");
+        }
+        .navbar {
+            background-color: rgb(156, 25, 25);
+            border-radius: 15px;
+        }
+        .navbar ul {
+            overflow: auto;
+        }
+        .navbar li {
+            float: left;
+            list-style: none;
+            padding: 8px;
+            margin: 13px 5px;
+        }
+        .navbar li a {
+            text-decoration: none;
+            font-size: 20px;
+        }
+        #srch {
+            float: right;
+            margin-right: 50px;
+            border-radius: 5px;
+            margin-top: 15px;
+            height: 25px;
+            background-color: rgb(156, 25, 25);
+        }
+        li:hover {
+            background-color: yellow;
+            border: 0px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">References</a></li>
+                <li><a href="#">Contact</a></li>
+                <input type="text" name="" id="srch" placeholder="Search Here">
+            </ul>
+        </nav>
+    </header>
+</body>
+</html>

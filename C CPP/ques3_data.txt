@@ -1,0 +1,200 @@
+00001-Customer Relationship Management-Relationship Marketing-00:42-www.xyz.com/D7JIV1o4QR
+00002-Databases-XML Databases-01:00-www.xyz.com/vdhZ6ETEQ2
+00003-Databases-CAP Theorum-01:08-www.xyz.com/5ldGsuWLtI
+00004-Statistics-Distributions-01:49-www.xyz.com/SkwOOdvSrM
+00005-Customer Relationship Management-Components of CRM-01:48-www.xyz.com/MLMP6zfxs9
+00006-Databases-NoSQL-00:30-www.xyz.com/58XXqRtC2m
+00007-Cyber Security-Wireless Security-01:54-www.xyz.com/8SsUnFtsCW
+00008-Databases-MongoDB-00:19-www.xyz.com/o4ltAHO0iG
+00009-Customer Relationship Management-Business Planning-01:57-www.xyz.com/b98jb0BND2
+00010-Machine Learning-Generative Learning-02:18-www.xyz.com/SB9EFv5PAU
+00011-Cyber Security-Classical Cryptography-01:42-www.xyz.com/ZkQAtYrTW2
+00012-Machine Learning-Generative Learning-02:07-www.xyz.com/8a7alEpy7u
+00013-Machine Learning-Density based Clustering-00:37-www.xyz.com/84HhnhqeDh
+00014-Statistics-Density Estimation-02:53-www.xyz.com/UkyaL5A4Ix
+00015-Customer Relationship Management-Relationship Marketing-00:22-www.xyz.com/fA1nDHS0yI
+00016-Statistics-Data Handling-02:18-www.xyz.com/ugfMOewjh4
+00017-Statistics-Curve Fitting-00:31-www.xyz.com/No50y5lBMD
+00018-Cyber Security-SDLC-00:24-www.xyz.com/SSWK8BgWpa
+00019-Customer Relationship Management-Business Planning-00:36-www.xyz.com/UdjpRmpNpa
+00020-Statistics-Curve Fitting-01:18-www.xyz.com/SGSuiyDoAr
+00021-Databases-In Memory Databases-00:08-www.xyz.com/S5SvgBi7wW
+00022-Customer Relationship Management-Business Planning-01:29-www.xyz.com/vqeN66Fm5S
+00023-Databases-SQL-02:45-www.xyz.com/8kPZpsSV1A
+00024-Customer Relationship Management-Business Planning-00:00-www.xyz.com/fj0aZevei8
+00025-Customer Relationship Management-Relationship Marketing-02:47-www.xyz.com/ytu5dHcQ94
+00026-Databases-XML Databases-01:33-www.xyz.com/4rRhaPF73A
+00027-Statistics-Central Limit Theorum-01:42-www.xyz.com/Xq7Uj1XKI9
+00028-Statistics-Central Limit Theorum-02:59-www.xyz.com/XN0ZEPHmpW
+00029-Statistics-Intro to R-01:07-www.xyz.com/cwh8mmcTn7
+00030-Databases-MongoDB-02:17-www.xyz.com/SR2zo0Y1Pp
+00031-Machine Learning-Generative Learning-00:43-www.xyz.com/5z9fvonhbN
+00032-Databases-MongoDB-01:39-www.xyz.com/QkMq9MpwMM
+00033-Statistics-Hypothesis Testing-02:28-www.xyz.com/wTG1SPeNDS
+00034-Databases-Database Revolutions-00:34-www.xyz.com/9I3Z0NOAjD
+00035-Cyber Security-Business risk Analysis-01:05-www.xyz.com/nhfjAvidIM
+00036-Statistics-Probability Theory-01:03-www.xyz.com/Ia9PsDzqaL
+00037-Machine Learning-Classification Methods-01:16-www.xyz.com/L658llrveZ
+00038-Machine Learning-Density based Clustering-02:07-www.xyz.com/RgUhGd76o4
+00039-Customer Relationship Management-Customer Service-02:57-www.xyz.com/fv00z37koy
+00040-Customer Relationship Management-Profit Chain-02:00-www.xyz.com/OQdp65UNjb
+00041-Statistics-Hypothesis Testing-00:24-www.xyz.com/s2KVyKUxNb
+00042-Statistics-Probability Theory-00:14-www.xyz.com/Z3UxT8kYBE
+00043-Customer Relationship Management-Sales and CRM-02:24-www.xyz.com/ORjEU3kSLE
+00044-Machine Learning-K means Clustering-01:53-www.xyz.com/qMRPOuKr22
+00045-Databases-In Memory Databases-02:58-www.xyz.com/63dSUKgwNQ
+00046-Customer Relationship Management-CRM Strategy-02:18-www.xyz.com/MRrBmHYABt
+00047-Customer Relationship Management-Relationship Marketing-02:39-www.xyz.com/M8fQ9GscaX
+00048-Customer Relationship Management-Profit Chain-01:11-www.xyz.com/bYhwzW7jnf
+00049-Databases-CAP Theorum-02:07-www.xyz.com/7QGSWtse8j
+00050-Databases-MongoDB-00:28-www.xyz.com/aBhBjM5hrC
+00051-Databases-Database Revolutions-02:22-www.xyz.com/ZM9ekP4HGv
+00052-Machine Learning-Neural Networks-00:55-www.xyz.com/3std1Zmjvs
+00053-Statistics-Data Handling-02:24-www.xyz.com/Ns2uFBYxYd
+00054-Statistics-Hypothesis Testing-01:43-www.xyz.com/9AEC08nzha
+00055-Machine Learning-Generative Learning-00:38-www.xyz.com/JSngLpaY16
+00056-Statistics-Distributions-00:26-www.xyz.com/MDlWL0gJ6U
+00057-Statistics-Intro to Python-00:33-www.xyz.com/JSyculIDaq
+00058-Customer Relationship Management-Profit Chain-02:47-www.xyz.com/7ctTqex9ec
+00059-Machine Learning-Bayesian Networks-00:56-www.xyz.com/T8flabNSMe
+00060-Databases-XML Databases-00:41-www.xyz.com/UPaZ2T1s8y
+00061-Statistics-Probability Theory-02:26-www.xyz.com/TeAukofIP1
+00062-Cyber Security-Classical Cryptography-00:27-www.xyz.com/f9m7ZNhZqi
+00063-Cyber Security-Wireless Security-01:08-www.xyz.com/hDr8p10Yng
+00064-Machine Learning-Density based Clustering-01:49-www.xyz.com/xK0aRnf08K
+00065-Customer Relationship Management-Sales and CRM-02:02-www.xyz.com/vfLaqCidBi
+00066-Statistics-Curve Fitting-00:04-www.xyz.com/A1b7LaflLK
+00067-Cyber Security-Security Standards-01:03-www.xyz.com/PdDIGYs4ia
+00068-Customer Relationship Management-CRM Evaluation-02:11-www.xyz.com/pfrzfR4yzj
+00069-Machine Learning-Neural Networks-02:25-www.xyz.com/lek8IxRYWJ
+00070-Machine Learning-K means Clustering-00:07-www.xyz.com/49Atm0sRPu
+00071-Statistics-Data Handling-02:23-www.xyz.com/gdaPHKVZGw
+00072-Customer Relationship Management-CRM Strategy-01:27-www.xyz.com/w401D8sz6j
+00073-Machine Learning-Gaussian Parameter Estimation-00:23-www.xyz.com/rFwXsVu9nQ
+00074-Databases-HBase-02:33-www.xyz.com/lYSicShpYX
+00075-Cyber Security-Modern Cryptography-02:56-www.xyz.com/Au129vX1OS
+00076-Statistics-Central Limit Theorum-02:29-www.xyz.com/DAYzj0fJSK
+00077-Machine Learning-Back Propogation-01:04-www.xyz.com/e86m05o7yK
+00078-Cyber Security-Malware-02:48-www.xyz.com/Za2miajRZM
+00079-Statistics-Hypothesis Testing-01:18-www.xyz.com/yYgcekPcpB
+00080-Machine Learning-Back Propogation-02:49-www.xyz.com/8D1fl3QUc9
+00081-Statistics-Curve Fitting-02:10-www.xyz.com/AAO9i4jKo8
+00082-Statistics-Intro to Python-02:21-www.xyz.com/NlSTxU9iXZ
+00083-Databases-Relational Databases-02:50-www.xyz.com/IAeRL3a17J
+00084-Customer Relationship Management-Components of CRM-01:14-www.xyz.com/TiwqROIOqR
+00085-Statistics-Density Estimation-02:47-www.xyz.com/TeLknyB81j
+00086-Customer Relationship Management-CRM Evaluation-01:15-www.xyz.com/0QmU6gIY2a
+00087-Statistics-Principal Component Analysis-01:05-www.xyz.com/DxFgaYQNWZ
+00088-Customer Relationship Management-Relationship Marketing-00:18-www.xyz.com/cJ6cjq4qUL
+00089-Statistics-Probability Theory-02:52-www.xyz.com/NtEYoRFMzd
+00090-Cyber Security-Wireless Security-01:54-www.xyz.com/zTnbmrCWfE
+00091-Cyber Security-Firewall-02:58-www.xyz.com/dTuzK6X8Vk
+00092-Customer Relationship Management-New Horizons-01:04-www.xyz.com/xZNu28Wpzg
+00093-Databases-CAP Theorum-01:45-www.xyz.com/lUHMv9LFEr
+00094-Statistics-Principal Component Analysis-00:26-www.xyz.com/Cz17WM2ZUW
+00095-Customer Relationship Management-Relationship Marketing-02:11-www.xyz.com/36GmYV8TeS
+00096-Statistics-Central Limit Theorum-01:16-www.xyz.com/auqksrsOBu
+00097-Databases-XML Databases-01:03-www.xyz.com/4cu5g8pFdw
+00098-Databases-Data Warehousing Schemes-00:33-www.xyz.com/6fPgZFRP5J
+00099-Customer Relationship Management-Sales and CRM-01:43-www.xyz.com/sZxw9p0pyp
+00100-Customer Relationship Management-New Horizons-02:37-www.xyz.com/p96umVaMiz
+00101-Cyber Security-Security Standards-00:57-www.xyz.com/0RDsyAm7zm
+00102-Cyber Security-Modern Cryptography-01:59-www.xyz.com/VLgITmCFFl
+00103-Databases-CAP Theorum-01:41-www.xyz.com/fzofQ1VNBG
+00104-Cyber Security-Business risk Analysis-00:03-www.xyz.com/4aNXu3oLoy
+00105-Databases-HBase-02:12-www.xyz.com/xSPdRBGpDk
+00106-Machine Learning-Bayesian Networks-01:15-www.xyz.com/Ty4WXP1PTp
+00107-Cyber Security-Firewall-00:32-www.xyz.com/GVMCxlpOv5
+00108-Cyber Security-Control Hijacking-02:24-www.xyz.com/Ql5uk8OFXP
+00109-Cyber Security-Control Hijacking-02:08-www.xyz.com/DzcSUzeQiT
+00110-Cyber Security-Business risk Analysis-02:18-www.xyz.com/jIPA3S2laQ
+00111-Machine Learning-Classification Methods-00:26-www.xyz.com/60yIzZiSYM
+00112-Machine Learning-Neural Networks-01:56-www.xyz.com/sHfZZ2jdUj
+00113-Machine Learning-Hidden Markov Models-00:53-www.xyz.com/BxxFvwVtVD
+00114-Customer Relationship Management-Business Planning-01:57-www.xyz.com/FKp5aSf9SM
+00115-Databases-In Memory Databases-00:49-www.xyz.com/yDS98PM4Jq
+00116-Cyber Security-Wireless Security-01:32-www.xyz.com/nZP1rE6Rfj
+00117-Machine Learning-Gaussian Parameter Estimation-00:55-www.xyz.com/2AQ0Lq7SGS
+00118-Customer Relationship Management-New Horizons-01:57-www.xyz.com/MJd7q28iED
+00119-Machine Learning-Hidden Markov Models-00:04-www.xyz.com/zy216Q0SH7
+00120-Machine Learning-Hidden Markov Models-01:10-www.xyz.com/4plO7OWxOc
+00121-Databases-Database Revolutions-02:01-www.xyz.com/WiVVgVUluU
+00122-Statistics-Curve Fitting-00:41-www.xyz.com/e9Pgx834UX
+00123-Statistics-Central Limit Theorum-01:25-www.xyz.com/UxS0dvTHPy
+00124-Customer Relationship Management-New Horizons-01:59-www.xyz.com/Q0E28dg5lj
+00125-Statistics-Hypothesis Testing-00:22-www.xyz.com/7OnaJDaw92
+00126-Databases-CAP Theorum-00:12-www.xyz.com/pOPDPeFVFv
+00127-Statistics-Curve Fitting-01:37-www.xyz.com/ErpKFbuYmS
+00128-Databases-In Memory Databases-02:00-www.xyz.com/RQqEnFRCte
+00129-Machine Learning-Hidden Markov Models-02:51-www.xyz.com/8BwK0jcGIU
+00130-Statistics-Principal Component Analysis-01:33-www.xyz.com/yNrOohcbw2
+00131-Customer Relationship Management-Customer data Management-01:30-www.xyz.com/vCd1LXJMGw
+00132-Customer Relationship Management-Profit Chain-00:54-www.xyz.com/cJZYhQwT7X
+00133-Customer Relationship Management-Customer data Management-00:25-www.xyz.com/oD9jQmilJ1
+00134-Databases-HBase-01:11-www.xyz.com/4I2ebbBG07
+00135-Customer Relationship Management-Profit Chain-01:23-www.xyz.com/7BSvPbcnNK
+00136-Cyber Security-Classical Cryptography-01:16-www.xyz.com/ADHCVHr7r0
+00137-Databases-In Memory Databases-00:07-www.xyz.com/wmk4vDzKoc
+00138-Databases-Database Revolutions-02:26-www.xyz.com/oEEwST9xjy
+00139-Customer Relationship Management-CRM Strategy-01:12-www.xyz.com/P5PLp9NlKN
+00140-Statistics-Intro to Python-02:25-www.xyz.com/Hrl36z0WQ9
+00141-Cyber Security-Modern Cryptography-00:00-www.xyz.com/j3q68DSwKn
+00142-Databases-NoSQL-01:02-www.xyz.com/m5p3xa61Z6
+00143-Statistics-Central Limit Theorum-01:08-www.xyz.com/9IOrLCxSPN
+00144-Machine Learning-Generative Learning-02:03-www.xyz.com/NJh9PXAK7G
+00145-Databases-Relational Databases-01:22-www.xyz.com/dWkkp7b8JX
+00146-Databases-XML Databases-01:28-www.xyz.com/P1tkLbti61
+00147-Statistics-Intro to Python-02:59-www.xyz.com/qa7T5rCswl
+00148-Cyber Security-Wireless Security-02:21-www.xyz.com/v9TKAN2Vwt
+00149-Machine Learning-K means Clustering-02:23-www.xyz.com/D9U4ibVnRh
+00150-Customer Relationship Management-Relationship Marketing-02:37-www.xyz.com/bjCWseo3zq
+00151-Machine Learning-Regression Trees-01:48-www.xyz.com/vdt8nOATxe
+00152-Customer Relationship Management-Sales and CRM-02:43-www.xyz.com/kmYLUjsMNe
+00153-Cyber Security-Network Security-00:50-www.xyz.com/FCaAoRGZnR
+00154-Customer Relationship Management-New Horizons-00:48-www.xyz.com/7OBr9hDdQ3
+00155-Cyber Security-Business risk Analysis-01:09-www.xyz.com/7ABKLlU9Aj
+00156-Cyber Security-Control Hijacking-00:22-www.xyz.com/jByoZ9ggqt
+00157-Customer Relationship Management-Business Planning-00:55-www.xyz.com/0bW8khS5Qv
+00158-Statistics-Density Estimation-02:10-www.xyz.com/WkaDvY2Sfi
+00159-Cyber Security-Firewall-02:02-www.xyz.com/iTdj27pmoF
+00160-Machine Learning-Neural Networks-02:33-www.xyz.com/lkvFUTTPzV
+00161-Cyber Security-Network Security-00:13-www.xyz.com/6iPmB1TD8I
+00162-Customer Relationship Management-New Horizons-02:55-www.xyz.com/5eroNk4rEV
+00163-Databases-HBase-01:07-www.xyz.com/q94urRg0QA
+00164-Customer Relationship Management-Profit Chain-02:43-www.xyz.com/SwxVboKwWM
+00165-Statistics-Density Estimation-00:04-www.xyz.com/up5kw7cnXI
+00166-Customer Relationship Management-Business Planning-01:08-www.xyz.com/Ur4un1OMni
+00167-Machine Learning-Back Propogation-02:44-www.xyz.com/2t4wg8ecFE
+00168-Cyber Security-Wireless Security-01:42-www.xyz.com/ix4Ao85Z7T
+00169-Customer Relationship Management-Components of CRM-02:30-www.xyz.com/CBIC2L6iTi
+00170-Machine Learning-Bayesian Networks-01:39-www.xyz.com/RSp9NrHByM
+00171-Cyber Security-Modern Cryptography-00:49-www.xyz.com/ywt85AK7TQ
+00172-Cyber Security-Classical Cryptography-01:41-www.xyz.com/a4ozWb6sRO
+00173-Customer Relationship Management-New Horizons-00:24-www.xyz.com/SWROSJWWRq
+00174-Cyber Security-Wireless Security-02:09-www.xyz.com/mMYMOLMtwQ
+00175-Cyber Security-Firewall-02:34-www.xyz.com/kZZB5yXVF2
+00176-Customer Relationship Management-Sales and CRM-00:55-www.xyz.com/W52IPadotx
+00177-Statistics-Intro to R-02:18-www.xyz.com/BCEujl3mka
+00178-Customer Relationship Management-Relationship Marketing-00:59-www.xyz.com/cTs8WuRvS4
+00179-Databases-CAP Theorum-01:44-www.xyz.com/AMqJY3BFoE
+00180-Cyber Security-SDLC-02:03-www.xyz.com/UPW6qMCMGd
+00181-Statistics-Density Estimation-00:29-www.xyz.com/2eOAzEUVFf
+00182-Cyber Security-Control Hijacking-02:08-www.xyz.com/Yf104V6trJ
+00183-Databases-XML Databases-01:27-www.xyz.com/oYVoCtx95R
+00184-Statistics-Principal Component Analysis-01:58-www.xyz.com/NuAvZAwcf0
+00185-Machine Learning-Back Propogation-01:08-www.xyz.com/cCGOklBue8
+00186-Cyber Security-Security Standards-02:15-www.xyz.com/2Z7PUFJ1NF
+00187-Machine Learning-Gaussian Parameter Estimation-02:42-www.xyz.com/YVt8h9VPse
+00188-Cyber Security-SDLC-00:53-www.xyz.com/BF0Eo5dGLw
+00189-Machine Learning-Generative Learning-00:57-www.xyz.com/jN4FqvMX2p
+00190-Cyber Security-Classical Cryptography-02:33-www.xyz.com/OBTZQTlCZN
+00191-Statistics-Density Estimation-02:21-www.xyz.com/WRcEmgTcZn
+00192-Databases-NoSQL-02:47-www.xyz.com/V18rAbPY3A
+00193-Machine Learning-K means Clustering-01:18-www.xyz.com/QptwEVAyAc
+00194-Machine Learning-Density based Clustering-00:33-www.xyz.com/Lycoxkg8K5
+00195-Cyber Security-Malware-01:01-www.xyz.com/xlZLYQHkuS
+00196-Statistics-Density Estimation-00:06-www.xyz.com/lRr4NTrLBX
+00197-Machine Learning-Back Propogation-01:01-www.xyz.com/snVnW282TO
+00198-Customer Relationship Management-Relationship Marketing-01:04-www.xyz.com/Nse6HVBfw2
+00199-Cyber Security-Network Security-01:19-www.xyz.com/d5WUszHN2O
+00200-Cyber Security-Firewall-00:48-www.xyz.com/oaY9QBFhgO

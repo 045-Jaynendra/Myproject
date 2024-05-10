@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.ico">
+    <style>
+        p#para {
+            font-family: 'Rubik Glitch', cursive;
+            font-size: 30px;
+            color: chocolate;
+        }
+        #setimg {
+            background-image: url('https://th.bing.com/th/id/R.f72ae0bc15a4d29240607d305a6b2925?rik=fpHkLlba%2bxsCxQ&riu=http%3a%2f%2fwebresizer.com%2fimages2%2fbird1_before.jpg&ehk=iDMN4yXLX%2bjqB7bmh31WU6%2bwO8ySl%2bcngtM%2fguGkOSw%3d&risl=&pid=ImgRaw&r=0');
+            height: 500px;
+            width: 700px;
+            background-repeat: no-repeat;
+            background-position: top right;
+            border: 3px solid rebeccapurple;
+        }
+    </style>
+</head>
+<body>
+    <!-- This is form -->
+    <h2>This is form</h2>
+    <p id="setimg">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus, eum!</p>
+    <p id="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quasi odio nam asperiores impedit voluptatibus, ratione consectetur atque possimus reprehenderit expedita earum recusandae hic obcaecati, rerum aspernatur. Temporibus sequi distinctio hic voluptatem? Illo facere eaque optio tenetur, ducimus voluptates dolore.</p>
+    <form action="1.css">
+        
+        <div><label for="name">Name</label><input type="text" name="Name" id="name"></div>
+        <div><label for="email">Email</label><input type="email" name="Email" id="email"></div>
+        <div><label for="date">DOB</label><input type="date" name="date" id="date"></div>
+        <div><label for="phn">Phone no.: </label>Phone no.: <input type="number" name="phn" id="phn"></div>
+        <div>
+            <label for="stt">State</label>
+                <select name="state" id="stt">
+                    <option value="Jharkhand">Jharkhand</option>
+                    <option value="Bihar">Bihar</option>
+                    <option value="MP">Madhya Pradesh</option>
+                    <option value="UP">Uttar Pradesh</option>
+                    <option value="Banglore">Banglore</option>
+            </select>
+        </div>
+        <div>
+            <label for="sx">Gender: </label>
+                    Male<input type="radio" name="sex" id="sx">
+                    Female<input type="radio" name="sex" id="sx">
+        </div>
+        <div>
+            <label for="agr">I agree</label>
+            <input type="checkbox" name="chk" id="agr">
+        </div>
+        <div>
+            <label for="abt">About You</label>
+            <br><textarea name="abt" id="abt" cols="90" rows="20"></textarea>
+        </div>
+        <div>
+            <input type="button" value="Submit">
+            <input type="reset" value="Reset">
+        </div>
+    </form>
+    This is empty &#8203;
+    <details>
+        <summary>Who r u?</summary>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, perspiciatis fugit laboriosam quo dolor voluptatem ab! Accusantium iusto cum nobis maiores at aliquid hic eligendi, nemo perspiciatis facere, sit perferendis, omnis fuga sapiente necessitatibus ducimus dolorum? Ipsa omnis reiciendis non.
+    </details>
+</body>
+</html>

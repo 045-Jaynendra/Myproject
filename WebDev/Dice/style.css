@@ -1,0 +1,28 @@
+body {
+    color: darksalmon;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+}
+h1 {
+    font-size: 5rem;
+    margin: 0px auto;
+}
+h3 {
+    color: rgb(52, 239, 217);
+    font-size: 2rem;
+}
+img {
+    height: 20rem;
+}
+.dg {
+    background-color: rgb(50, 137, 177);
+    width: 60%;
+    margin: 0px auto;
+}
+.dic {
+    padding: 20px;
+    display: inline-block;
+    height: 425px;
+    width: 316px;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Query</title>
+    <style>
+        .box {
+            background-color: tomato;
+            text-align: center;
+            font-size: 70px;
+            border: 2px dotted green;
+            margin: 5px;
+            display: none;
+        }
+        @media only screen and (max-width: 400px) {
+            #box1 {
+                display: block;
+                color: white;
+            }
+        }
+        @media only screen and (min-width:400px) and (max-width: 800px) {
+            #box2 {
+                display: block;
+                color: yellowgreen;
+                background-color: bisque;
+            }
+        }
+        @media only screen and (min-width:800px) and (max-width: 1200px) {
+            #box3 {
+                display: block;
+                color: black;
+                background-color: chartreuse;
+            }
+        }
+        @media only screen and (min-width:1200px) {
+            #box4 {
+                display: block;
+                color: rgb(27, 195, 44);
+                background-color: rgb(255, 184, 52);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="box" id="box1">Lorem ipsum dolor sit amet consectetur adipisicing elit. </div>
+    <div class="box" id="box2">Sed harum quos eveniet tenetur consequatur! Tenetur esse, accusamus ut quidem </div>
+    <div class="box" id="box3">reiciendis pariatur corporis amet sed libero odio nihil consequatur numquam </div>
+    <div class="box" id="box4">tempora consequuntur sit, voluptas soluta at error recusandae dolorem magni eos.</div>
+</body>
+</html>

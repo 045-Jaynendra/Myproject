@@ -1,0 +1,8 @@
+sub = {"Statistics", "Machine Learning", "Databases", "Cyber Security", "Customer Relationship Management"};
+topics = {
+	{"Probability Theory", "Distributions", "Central Limit Theorum", "Hypothesis Testing", "Data Handling", "Curve Fitting", "Density Estimation", "Principal Component Analysis", "Intro to R", "Intro to Python"},
+	{"Generative Learning", "Gaussian Parameter Estimation", "Classification Methods", "Regression Trees", "Bayesian Networks", "Hidden Markov Models", "K means Clustering", "Density based Clustering", "Neural Networks", "Back Propogation"},
+	{"Database Revolutions", "Relational Databases", "CAP Theorum", "XML Databases", "Data Warehousing Schemes", "In Memory Databases", "MongoDB", "HBase", "SQL", "NoSQL"},
+	{"SDLC", "Security Standards", "Classical Cryptography", "Modern Cryptography", "Network Security", "Firewall", "Control Hijacking", "Malware", "Wireless Security", "Business risk Analysis"},
+	{"Components of CRM", "Relationship Marketing", "Customer data Management", "Customer Service", "CRM Strategy", "Profit Chain", "Sales and CRM", "Business Planning", "CRM Evalution", "New Horizons"}
+};

@@ -1,0 +1,166 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.bd {
+    position: relative;
+}
+#header {
+  display: flex;
+  position: sticky;
+}
+
+#nav-right #nav-up {
+  font-size: 50px;
+  font-family: "Oleo Script Swash Caps", cursive;
+  color: coral;
+  font-weight: bold;
+}
+
+#nav-right #nav-down {
+  font-size: 20px;
+  background-color: brown;
+}
+
+#nav-up p {
+  margin: 15px;
+  margin-bottom: 3px;
+  margin-left: 20px;
+}
+
+#nav-right #nav-down #down-left ul li {
+  padding: 18px;
+  margin: 0px 30px;
+  font-size: 20px;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+#down-left ul a {
+  color: bisque;
+  text-decoration: none;
+  border: 2px solid black;
+}
+
+#down-left ul a:hover {
+  background-color: bisque;
+  color: brown;
+  text-decoration: none;
+  border: 2px solid black;
+}
+
+#nav-left img {
+  height: 150px;
+  width: 150px;
+}
+
+#nav-right {
+  width: 100%;
+}
+
+#down-left {
+  background-color: chocolate;
+  width: 70%;
+}
+
+#down-right {
+  background-color: chartreuse;
+  width: 30%;
+}
+
+#down-left ul {
+  display: flex;
+}
+
+#Products {
+  display: flex;
+}
+
+#cat {
+  width: 20%;
+  height: 1000px;
+  background-color: darkseagreen;
+}
+
+#prod-item {
+  width: 80%;
+  height: 1000px;
+  margin: 20px;
+  background-color: rgb(255, 255, 255);
+}
+footer {
+  width: 100%;
+  height: 200px;
+  background-color: rgb(55, 12, 12);
+}
+
+#cat ul li {
+  margin: 10px 0px;
+  margin-left: 25px;
+  list-style-type: none;
+  font-size: 18px;
+}
+
+#cat ul a {
+  color: bisque;
+  text-decoration: none;
+}
+
+#cat ul a:hover {
+  color: rgb(133, 70, 31);
+  text-decoration: none;
+}
+
+#cat ul #hed {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#itm {
+  /* margin: -5px;
+    padding: -5px;; */
+}
+
+#prod-item {
+  display: block;
+  width: 80%;
+}
+
+#prod-item #itm {
+  width: 100%;
+  height: 420px;
+  margin-right: 30px;
+  background-color: rgb(255, 255, 255);
+  overflow-y: hidden;
+  overflow-x: scroll;
+  display: flex;
+}
+#prod-item #itm img {
+  height: 300px;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+
+#prod-item #itm a {
+  text-decoration: none;
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+}
+
+#prod-item div {
+  /* margin: 20px;
+    margin-left: 30px; */
+}
+
+#prod-2 img {
+  /* display: inline-block; */
+  width: 100%;
+  height: auto;
+  /* height: auto; */
+  /* background: url('/CWH WebDev/WebProject/Image/9.jpg'); */
+  /* background-size: 100% 100%; */
+}

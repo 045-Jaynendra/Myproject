@@ -1,0 +1,4 @@
+Machine Learning-Gaussian Parameter Estimation-Bayesian Networks-Density based Clustering
+Databases-CAP Theorum-Data Warehousing Schemes-MongoDB-HBase
+Cyber Security-SDLC-Security Standards-Business risk Analysis
+Customer Relationship Management-Components of CRM

@@ -1,0 +1,20 @@
+function customRander(reactElement, container) {
+    const domElement = document.createElement(reactElement.type)
+    document.innerHTML = reactElement.children
+    domElement.setAttribute('href', reactElement.props.href)
+    domElement.setAttribute('target', reactElement.props.target)
+
+    container.appendChild(domElement)
+}
+
+const reactElement = {
+    type: 'a',
+    props: {
+        gref: 'https://google.com',
+        target: '_blank'
+    },
+    children: 'Click me to visit google'
+}
+const mainContainer = document.querySelector('#root')
+
+customRander(reactElement, mainContainer)
